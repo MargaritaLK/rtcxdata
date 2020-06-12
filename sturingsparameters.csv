@@ -1,12 +1,12 @@
-﻿Nummer TMX;Naam TMX;CodeDAMO;Type;sp_boven;op_boven;sp_beneden;op_beneden;Waterbezwaar;Aanvoerregeling;Breedte;Kruin min;Kruin max;Type onderstation;Regeling;Waarde;Breedte;Kruin min;Kruin max
-0681;Noortwijklaan;KDU-B-1550;Inlaatduiker;-3,74;-3,4;-3,85;-3,3;;;;;;;;;;;
-0820;Krusemanlaan;KST-Q-8810;Stuw;-3,4;-1;;;0,1;0,1;2,85;;;UDSO;?;;2,8;;
-0840;Veenhuizerweg;KST-Q-8808;Stuw;-3,1;-2,91;-3,3;-2,91;0,05;0,1;2;;;UDSO;Standaard;;2;;
-0821;Vork, de;KST-Q-8820;Stuw;-3,43;-1;;;;;2,85;;;UDSO;?;;2,48;;
-0822;Zandhorst, de;KST-Q-8823;Stuw;-3,7;-3,33;-3,9;-3,55;0,05;0,05;2,85;;;UDSO;Standaard;;2,8;;
-0852;Westerweg, DAF;KST-Q-8822;Stuw;-3,7;-1;3,7;-1;0,1;0,1;1,84;;;UDSO;Standaard;;1,88;;
-0802;Pannekeetweg;KST-D-3;Stuw;;;;;;;2;-4,3;-3;LM-8;1: bovenpeil geregeld;-3,43;1,99;-4,33;-2,55
-0570;Hasselaarweg;KST-Q-8819;Stuw;-3,15;-2,8;-3,35;-3,1;0,1;0,01;2;;;LM-8;bovenpeil?;;2;-3,61;-2,18
-0252;Schoutenbosweg;KST-Q-8814;Stuw;-3,15;-2,9;-3,3;-3,1;0,05;0,01;2;;;LM-8;Standaard;;1,87;-3,74;-1,93
-0819;Beukenlaan;KST-Q-8811;Stuw;-3,75;-3,35;-3,9;-3,5;0,05;0,05;;;;UDSO;Standaard;;;;
-0855;Oostertocht;KST-B-1734;Stuw;;;;;;;0,5;;;LM-8;1: bovenpeil geregeld;-3,08;;;
+﻿NummerTMX;NaamTMX;CodeDAMO;Type;sp_boven;op_boven;sp_beneden;op_beneden;Waterbezwaar;Aanvoerregeling;Breedte;Kruin min;Kruin max;Type onderstation;Regeling;Waarde;Breedte;Kruin min;Kruin max
+681;Noortwijklaan;KDU-B-1550;Inlaatduiker;-3,74;-3,4;-3,85;-3,3;;;;;;;;;;;
+820;Krusemanlaan;KST-Q-8810;Stuw;-3,4;-1;;;0,1;0,1;2,85;;;UDSO;?;;2,8;;
+840;Veenhuizerweg;KST-Q-8808;Stuw;-3,1;-2,91;-3,3;-2,91;0,05;0,1;2;;;UDSO;Standaard;;2;;
+821;Vork, de;KST-Q-8820;Stuw;-3,43;-1;;;;;2,85;;;UDSO;?;;2,48;;
+822;Zandhorst, de;KST-Q-8823;Stuw;-3,7;-3,33;-3,9;-3,55;0,05;0,05;2,85;;;UDSO;Standaard;;2,8;;
+852;Westerweg, DAF;KST-Q-8822;Stuw;-3,7;-1;3,7;-1;0,1;0,1;1,84;;;UDSO;Standaard;;1,88;;
+802;Pannekeetweg;KST-D-3;Stuw;;;;;;;2;-4,3;-3;LM-8;1: bovenpeil geregeld;-3,43;1,99;-4,33;-2,55
+570;Hasselaarweg;KST-Q-8819;Stuw;-3,15;-2,8;-3,35;-3,1;0,1;0,01;2;;;LM-8;bovenpeil?;;2;-3,61;-2,18
+252;Schoutenbosweg;KST-Q-8814;Stuw;-3,15;-2,9;-3,3;-3,1;0,05;0,01;2;;;LM-8;Standaard;;1,87;-3,74;-1,93
+819;Beukenlaan;KST-Q-8811;Stuw;-3,75;-3,35;-3,9;-3,5;0,05;0,05;;;;UDSO;Standaard;;;;
+855;Oostertocht;KST-B-1734;Stuw;;;;;;;0,5;;;LM-8;1: bovenpeil geregeld;-3,08;;;
