@@ -1,4 +1,4 @@
-NaamTMX,CodeDAMO,structure_type,structure_id,sturing,peilvak_boven,peilvak_beneden,streefpeil_boven,overlastpeil_boven,streefpeil_beneden,overlastpeil_beneden,increment,kruin_min,kruin_max,node_id_up,node_id_down
+NaamTMX,code,structure_type,structure_id,sturing,peilvak_boven,peilvak_beneden,streefpeil_boven,overlastpeil_boven,streefpeil_beneden,overlastpeil_beneden,increment,kruin_min,kruin_max,node_id_up,node_id_down
 ZandhorstDe,KST-Q-8823,v2_weir,276,uit,0315-23,0315-10,-3.7,-3.33,-3.9,-3.55,0.02,-4.25,-3.3,22583,24830
 Krusemanlaan,KST-Q-8810,v2_weir,298,aan,0315-21,0315-27,-3.4,-3.3,-3.75,-3.3,0.02,-4.39,-2.46,23631,23632
 Beukenlaan,KST-Q-8811,v2_weir,294,aan,0315-27,0315-10,-3.7,-3.35,-3.9,-3.5,0.02,-4.59,-3.2,27908,25498
